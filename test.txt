@@ -5,6 +5,7 @@ public Test(){
 
 public static void(String[] args){
 Test test = new Test();
+sysout
 }
 
 }
